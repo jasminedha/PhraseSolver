@@ -121,7 +121,7 @@ public class PhraseSolver {
 
 
     public static void main(String[] args) {
-        PhraseSolver game = new PhraseSolver("hello world");
+        PhraseSolver game = new PhraseSolver("thou art such a snollygoster it makes me wamblecropt");
         game.playGame();
     }
 }
